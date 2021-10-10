@@ -4,3 +4,4 @@ En este práctica hemos empezado a trabajar con Unity, usando alguno de los elem
 
 ### Gif animado con la ejecución
 
+![Alt Text](gif.gif)
